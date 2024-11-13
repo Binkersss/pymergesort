@@ -1,0 +1,24 @@
+# Build directory
+build/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# C++ build files
+*.o
+*.so
+*.dylib
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+Makefile
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
